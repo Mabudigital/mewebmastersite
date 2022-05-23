@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_service_icon_service_icons",
+  "info": {
+    "displayName": "Items",
+    "icon": "border-all",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

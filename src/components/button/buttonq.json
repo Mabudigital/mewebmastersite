@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_button_buttonqs",
+  "info": {
+    "displayName": "Button",
+    "icon": "caret-square-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "string"
+    }
+  }
+}
